@@ -1,0 +1,9 @@
+
+
+http://112.124.22.156/clean/CleanChina/data.ashx?function=expo&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={}
+
+http://112.124.22.156/clean/CleanChina/data.ashx?function=expo10&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={}
+
+http://112.124.22.156/clean/CleanChina/data.ashx?function=company&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={querykey:""}
+
+http://112.124.22.156/clean/CleanChina/data.ashx?function=company1&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={companyid:22}
