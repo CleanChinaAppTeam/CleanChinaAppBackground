@@ -7,3 +7,27 @@ http://112.124.22.156/clean/CleanChina/data.ashx?function=expo10&identication={"
 http://112.124.22.156/clean/CleanChina/data.ashx?function=company&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={querykey:""}
 
 http://112.124.22.156/clean/CleanChina/data.ashx?function=company1&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={companyid:22}
+
+序号14: 保存观众登记信息
+http://112.124.22.156/clean/CleanChina/data.ashx?function=person&identication={"type":"basic","password":"test123","username":"admin","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={name:"姓名", company:"公司", address:"地址", city:"省市", mobile:"手机", email:"邮箱"}
+
+序号15:  按类别获取3家公司
+http://112.124.22.156/clean/CleanChina/data.ashx?function=reward&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={rewardid:101}
+
+
+序号16: 论坛搜索 , 支持 今日论坛索索； 关键词、排序
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={onlygettodayforum:0,querykey:"清洁",timesort:1,timesorttype:1,classsort:1,classsorttype:1}
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={onlygettodayforum:1,querykey:"清洁",timesort:1,timesorttype:1,classsort:1,classsorttype:1}
+
+序号17: 获取论坛详情
+------------
+高端论坛
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum1&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={forum_id:100}
+一般论坛
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum1&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={forum_id:101}
+比赛
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum1&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={forum_id:102}
+秀
+http://112.124.22.156/clean/CleanChina/data.ashx?function=forum1&identication={"type":"basic","password":"","username":"","imei":"0a97e5810d5177a6","info":"systemModel:iPad","version":"1.2"}&data={forum_id:103}
+
+
